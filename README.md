@@ -17,3 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 <h1>Pictures</h1>
 <br>
 ![ss](https://github.com/MinahilNaseer/App-Recipe/assets/108626671/7b5dac43-38f7-49f3-a889-9d0ce22d30b6)
+![ss1](https://github.com/MinahilNaseer/App-Recipe/assets/108626671/0ecbd01f-dbf9-4132-825d-35772abc0302)
+![ss2](https://github.com/MinahilNaseer/App-Recipe/assets/108626671/9343fbab-ab9b-473d-a562-83a3aaabb8e8)
+![ss9](https://github.com/MinahilNaseer/App-Recipe/assets/108626671/1ed1e8af-12c9-4caf-aaa7-d0eff4dad8d4)
+![ss7](https://github.com/MinahilNaseer/App-Recipe/assets/108626671/683fdcc1-3ceb-4252-b150-1f2ee5fee1ec)
+![ss5](https://github.com/MinahilNaseer/App-Recipe/assets/108626671/9c290c35-286a-4ebb-8c29-bea3875d87b5)
+![ss4](https://github.com/MinahilNaseer/App-Recipe/assets/108626671/3e7ff47a-5875-4c5e-aa23-29af2802710d)
